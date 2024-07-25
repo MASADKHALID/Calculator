@@ -1,0 +1,61 @@
+
+.root {
+    -fx-background-color: whitesmoke;
+
+}
+
+.button {
+    -fx-background-color: white;
+    -fx-min-width:50;
+    -fx-font-size:15;
+    -fx-font-weight: bold;
+    -fx-border-color:Orange;
+    -fx-border-width:0;
+    -fx-text-fill: Orange;
+}
+
+.button:hover {
+    -fx-background-color: Orange;
+    -fx-text-fill: whitesmoke;
+}
+
+ #Equal, #Add, #Subtract, #Multiply, #Divide {
+    -fx-background-color: #F57D1F;
+    -fx-min-width: 52;
+    -fx-text-fill: whitesmoke;
+
+}
+
+#Equal:hover, #Add:hover, #Subtract:hover, #Multiply:hover, #Divide:hover {
+    -fx-text-fill: whitesmoke;
+    -fx-background-color: #fca96a;
+}
+
+#Clear, #Cross, #Ans{
+    -fx-background-color: #505FE4;                      /* 444444 */
+    -fx-pref-height: 30;
+    -fx-min-width: 52;
+    -fx-text-fill: whitesmoke;
+}
+
+#Clear:hover, #Cross:hover, #Ans:hover {
+
+    -fx-text-fill: white;
+    /* -fx-background-color: rgb(198, 116, 236); */
+    -fx-background-color: #6877fa;
+}
+
+#CubeRoot {
+    -fx-min-width:52;
+}
+
+#Fact {
+    -fx-min-width:52;
+}
+
+#Sin, #Cos, #Tan{
+    -fx-min-width: 70;
+    -fx-font-size: 14.5;
+}
+
+
