@@ -68,5 +68,6 @@ Implementing theme switching involves changing the style properties of the UI co
 
 
 
-Muhammad Asad Khalid((https://github.com/MASADKHALID) Muhammad Yahya Khan(https://github.com/Muhammad-Yahya-Khan/)
+Muhammad Asad Khalid((https://github.com/MASADKHALID) 
+Muhammad Yahya Khan(https://github.com/Muhammad-Yahya-Khan/)
 
